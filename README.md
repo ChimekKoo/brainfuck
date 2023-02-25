@@ -1,5 +1,5 @@
 # Brainfuck
-Simple Brainfuck interpreter written in Python
+Simple Brainfuck interpreter written in Python.
 
 ## Usage (linux):
 To execute `example.bf` file, run:
